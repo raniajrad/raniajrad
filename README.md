@@ -16,7 +16,7 @@
 
 🛠️ Technologies & Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=laravel,php,java,flutter,html,css,js,git,github,vscode,mongodb,android,mysql" /> </p>
----
+
 
 ### 📂 My Projects  
 
