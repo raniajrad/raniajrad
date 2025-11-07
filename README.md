@@ -8,9 +8,9 @@
 ---
 
 ### 🧠 About Me  
- Passionnée par la technologie et le développement, je suis étudiante en <strong>Technologie Informatique</strong>, spécialisée en <strong>Développement des Systèmes d’Information</strong>.  
- J’aime créer des applications modernes, intuitives et réactives en utilisant **Laravel**, **Flutter**, **Java**, **PHP**, **HTML**, et **CSS**.  
- Mon objectif : concevoir des solutions numériques élégantes et efficaces pour faciliter la vie quotidienne.
+ 👩‍💻Passionnée par la technologie et le développement, je suis étudiante en <strong>Technologie Informatique</strong>, spécialisée en <strong>Développement des Systèmes d’Information</strong>.  
+ 💡J’aime créer des applications modernes, intuitives et réactives en utilisant **Laravel**, **Flutter**, **Java**, **PHP**, **HTML**, et **CSS**.  
+ 🎯 Mon objectif : concevoir des solutions numériques élégantes et efficaces pour faciliter la vie quotidienne.
 
 ---
 
