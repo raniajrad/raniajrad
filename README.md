@@ -14,8 +14,11 @@
 
 ---
 
-🛠️ Technologies & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=laravel,php,java,flutter,html,css,js,git,github,vscode,mongodb,android,mysql" /> </p>
+### 🛠️ Technologies & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,java,flutter,html,css,js,git,github,vscode,mongodb,mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48" alt="Android" />
+</p>
 
 
 ### 📂 My Projects  
