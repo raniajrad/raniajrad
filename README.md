@@ -23,8 +23,8 @@
 
 ### 📂 My Projects  
 
-- 👗 [Vente-Vêtements](https://github.com/raniajrad/vente-photo) – Application e-commerce pour la vente de vêtements féminins, développée avec **Laravel**.  
-- 🏡 [Plateforme Locale](https://github.com/raniajrad/platforme-locale) – Projet de plateforme locale connectant les commerçants et les clients autour de services digitaux.  
+- 👗 [Vente-Vêtements](https://github.com/raniajrad/vente-photo) – Application e-commerce pour la vente de vêtements, développée avec **Laravel**.  
+- 🏡 [Plateforme Locale](https://github.com/raniajrad/platforme-locale) – Projet de plateforme locale mise en relation entre clients, prestataires et administrateur autour de services digitaux.  
 - 📱 [JS2024](https://github.com/raniajrad/js2024) – Projet de formation front-end en **HTML/CSS/JS**.
 
 ---
