@@ -63,57 +63,7 @@
     <a href="https://www.linkedin.com/in/votre-profil-linkedin/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:rania.jrad.07@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
-
 ---
-
-comment modifier mon profil github comme cette modele slvp voila mon code modifier avec animation les images:<h1 align="center" style="color: #333;">🖤 Hey, I'm Rania Jrad</h1>
-
-
-
-<p align="center">
-
-  <em>💻 Computer Technology Student | Specialized in Information Systems Development</em><br>
-
-  <em>📍 Based in Monastir, Tunisia</em>
-
-</p>
-
-
-
----
-
-
-
-### 🧠 About Me  
-
-👩‍💻 Passionate about <strong>technology</strong> and <strong>development</strong>, I’m a <strong>Computer Technology student</strong>, specialized in <strong>Information Systems Development</strong>.  
-
-💡 I love creating <strong>modern, intuitive, and responsive applications</strong> using <strong>Laravel</strong>, <strong>Flutter</strong>, <strong>Java</strong>, <strong>PHP</strong>, <strong>HTML</strong>, and <strong>CSS</strong>.  
-
-🎯 My goal is to <strong>design elegant and efficient digital solutions</strong> that <strong>make everyday life easier</strong>.  
-
-
-
----
-
-
-
-### 🛠️ Technologies & Tools  
-
-<p align="center">
-
-  <img src="https://skillicons.dev/icons?i=laravel,php,java,flutter,html,css,js,git,github,vscode,mongodb,mysql" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48" alt="Android" />
-
-</p>
-
-
-
----
-
-
-
 ### 📂 My Projects  
 
 
