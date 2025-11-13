@@ -10,10 +10,6 @@
     <img src="https://komarev.com/ghpvc/?username=raniajrad&color=8a2be2" alt="Profile views" />
 </p>
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Hanene2004/Hanene2004/main/Capture%20d'%C3%A9cran%202025-11-13%20215118.png" alt="Illustration de codage" width="400"/>
-</p>
-
 ---
 
 <a name="profile-content"></a>
