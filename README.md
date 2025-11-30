@@ -49,7 +49,6 @@
       <img src="https://skillicons.dev/icons?i=bootstrap" width="45" />
       <img src="https://skillicons.dev/icons?i=tailwind css" width="45" />
       <img src="https://skillicons.dev/icons?i=flutter" width="45" />
-        
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=mysql" width="45" />
