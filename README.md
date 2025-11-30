@@ -21,16 +21,88 @@
 </p>
 
 ---
+<h2 align="center">🛠️ Technologies & Tools 🛠️</h2>
 
-### 🛠️ Technologies & Tools  
+<!-- Programming Languages -->
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Programming%20Languages-20232A?style=for-the-badge&color=1b1f24" />
 
-<p align="center">
+  <br><br>
 
-  <img src="https://skillicons.dev/icons?i=laravel,php,java,flutter,html,css,js,git,github,vscode,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=java" width="50" />
+  <img src="https://skillicons.dev/icons?i=python" width="50" />
+  <img src="https://skillicons.dev/icons?i=js" width="50" />
+  <img src="https://skillicons.dev/icons?i=ts" width="50" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="50" />
+  <img src="https://skillicons.dev/icons?i=c" width="50" />
+</div>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48" alt="Android" />
+<!-- Back-end -->
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Back--end-20232A?style=for-the-badge&color=1b1f24" />
 
-</p>
+  <br><br>
+
+  <img src="https://skillicons.dev/icons?i=php" width="50" />
+  <img src="https://skillicons.dev/icons?i=laravel" width="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" />
+</div>
+
+<!-- Front-end -->
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Front--end-20232A?style=for-the-badge&color=1b1f24" />
+
+  <br><br>
+
+  <img src="https://skillicons.dev/icons?i=html" width="50" />
+  <img src="https://skillicons.dev/icons?i=css" width="50" />
+  <img src="https://skillicons.dev/icons?i=react" width="50" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" />
+  <img src="https://skillicons.dev/icons?i=flutter" width="50" />
+</div>
+
+<!-- Database -->
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Database-20232A?style=for-the-badge&color=1b1f24" />
+
+  <br><br>
+
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" />
+  <img src="https://skillicons.dev/icons?i=oracle" width="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" />
+</div>
+
+<!-- System, Networking & Deployment -->
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/System,%20Networking%20%26%20Deployment-20232A?style=for-the-badge&color=1b1f24" />
+
+  <br><br>
+
+  <img src="https://skillicons.dev/icons?i=docker" width="50" />
+</div>
+
+<!-- Tools -->
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Tools-20232A?style=for-the-badge&color=1b1f24" />
+
+  <br><br>
+
+  <img src="https://skillicons.dev/icons?i=git" width="50" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" />
+  <img src="https://skillicons.dev/icons?i=idea" width="50" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="50" />
+</div>
+
+<!-- Operating Systems -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Operating%20Systems-20232A?style=for-the-badge&color=1b1f24" />
+
+  <br><br>
+
+  <img src="https://skillicons.dev/icons?i=windows" width="50" />
+  <img src="https://skillicons.dev/icons?i=linux" width="50" />
+</div>
+
 
 
 ## 📈 GitHub Stats 📊
