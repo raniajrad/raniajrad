@@ -52,8 +52,8 @@
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=mysql" width="45" />
-      <img src="https://skillicons.dev/icons?i=oracle" width="45" />
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" />
+      <img src="https://skillicons.dev/icons?i=oracle" width="45" />
     </td>
   </tr>
 
@@ -80,6 +80,8 @@
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=figma" width="45" />
+      <img src="https://skillicons.dev/icons?i=canva" width="45" />
+      <img src="https://skillicons.dev/icons?i=adobe" width="45" />
     </td>
   </tr>
 </table>
