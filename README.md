@@ -47,16 +47,15 @@
       <img src="https://skillicons.dev/icons?i=css" width="45" />
       <img src="https://skillicons.dev/icons?i=react" width="45" />
       <img src="https://skillicons.dev/icons?i=bootstrap" width="45" />
-      <img src="https://skillicons.dev/icons?i=tailwind css" width="45" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" />
       <img src="https://skillicons.dev/icons?i=flutter" width="45" />
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=mysql" width="45" />
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" />
-      <img src="https://skillicons.dev/icons?i=oracle" width="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" />
     </td>
   </tr>
-
   <!-- Ligne 2 -->
   <tr>
     <th>Systems & Deployment</th>
@@ -73,15 +72,16 @@
       <img src="https://skillicons.dev/icons?i=vscode" width="45" />
       <img src="https://skillicons.dev/icons?i=idea" width="45" />
       <img src="https://skillicons.dev/icons?i=androidstudio" width="45" />
+      <img src="https://skillicons.dev/icons?i=eclipse" width="45" />
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=windows" width="45" />
       <img src="https://skillicons.dev/icons?i=linux" width="45" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=figma" width="45" />
-      <img src="https://skillicons.dev/icons?i=canva" width="45" />
-      <img src="https://skillicons.dev/icons?i=adobe" width="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" />
     </td>
   </tr>
 </table>
