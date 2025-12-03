@@ -120,6 +120,3 @@
 
 - 📱 <a href="https://github.com/raniajrad/js2024">JS2024</a> – A <strong>front-end training project</strong> built with <strong>HTML/CSS/JS</strong>.  
 ---
-<p align="center">
-    <sub>🖤 Designed & coded with passion by <strong>Rania Jrad</strong> | 2025</sub>
-</p>
