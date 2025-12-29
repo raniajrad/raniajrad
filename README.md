@@ -16,7 +16,8 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=raniajrad&theme=darkhub)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=raniajrad)
+
 
 ---
 ## 🛠️ Technologies & Tools
