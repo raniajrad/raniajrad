@@ -14,11 +14,9 @@
 
 <a name="profile-content"></a>
 
-## 🏆 GitHub Trophies 🏆
+## 🏆 GitHub Trophies
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=raniajrad&layout=compact&theme=darkhub" alt="GitHub Trophies" />
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=raniajrad&theme=darkhub)
 
 ---
 ## 🛠️ Technologies & Tools
