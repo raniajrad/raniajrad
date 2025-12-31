@@ -97,7 +97,10 @@
 
 👩‍💻 Passionate about <strong>technology</strong> and <strong>development</strong>, I’m a <strong>Computer Technology student</strong>, specialized in <strong>Information Systems Development</strong>.  
 
-💡 I love creating <strong>modern, intuitive, and responsive applications</strong> using <strong>Laravel</strong>, <strong>Flutter</strong>, <strong>Java</strong>, <strong>PHP</strong>, <strong>HTML</strong>, and <strong>CSS</strong>.  
+💡 I love creating <strong>modern, intuitive, and responsive applications</strong> using <strong>Laravel</strong>, <strong>Flutter</strong>, <strong>Java</strong>,
+<strong>PHP</strong>, 
+<strong>SQL</strong>
+<strong>HTML</strong>, and <strong>CSS</strong>.  
 
 🎯 My goal is to <strong>design elegant and efficient digital solutions</strong> that <strong>make everyday life easier</strong>.  
 
