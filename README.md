@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #6a0dad;">Hey, I'm Rania Jrad 👋</h1>
 
 <p align="center">
-    <em>💻 Computer Technology Student | Passionate about development Web & Mobile</em>
+    <em>Junior Full Stack Developer | Laravel | Android (Java & XML) | Flutter | SQL </em>
 </p>
 
 <h2 align="center" style="color: #8a2be2;">Future Full-Stack Developer</h2>
