@@ -4,7 +4,7 @@
     <em>Junior Full Stack Developer | Laravel | Android (Java & XML) | Flutter | SQL </em>
 </p>
 
-<h2 align="center" style="color: #8a2be2;">Future Full-Stack Developer</h2>
+<h2 align="center" style="color: #8a2be2;">Junior Full Stack Developer</h2>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=raniajrad&color=8a2be2" alt="Profile views" />
