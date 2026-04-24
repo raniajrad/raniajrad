@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #6a0dad;">Hey, I'm Rania Jrad 👋</h1>
 
 <p align="center">
-    <em>Junior Full Stack Developer | Laravel | Android (Java & XML) | Flutter | SQL </em>
+    <em>Junior Full Stack Developer |  Flutter | Java | Laravel </em>
 </p>
 
 <h2 align="center" style="color: #8a2be2;">Junior Full Stack Developer</h2>
@@ -96,7 +96,7 @@
 ### 🧠 About Me  
 
 👩‍💻<strong>Junior Full Stack Developer diplômée en Technologie de l’Informatique, spécialité Développement des Systèmes d’Information.
-Passionnée par le développement web et mobile, avec des compétences en Laravel, Flutter, Android ,Java et SQL.
+Passionnée par le développement web et mobile, avec des compétences en Flutter , Java et Laravel .
 À la recherche d’opportunités pour développer mes compétences et contribuer à des projets réels. </strong>
 
 🎯 My goal is to <strong>design elegant and efficient digital solutions</strong> that <strong>make everyday life easier</strong>.  
