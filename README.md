@@ -33,18 +33,14 @@
     <td>
       <img src="https://skillicons.dev/icons?i=java" width="45" />
       <img src="https://skillicons.dev/icons?i=js" width="45" />
-      <img src="https://skillicons.dev/icons?i=ts" width="45" />
-      <img src="https://skillicons.dev/icons?i=cpp" width="45" />
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=php" width="45" />
       <img src="https://skillicons.dev/icons?i=laravel" width="45" />
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" />
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=html" width="45" />
       <img src="https://skillicons.dev/icons?i=css" width="45" />
-      <img src="https://skillicons.dev/icons?i=react" width="45" />
       <img src="https://skillicons.dev/icons?i=bootstrap" width="45" />
       <img src="https://skillicons.dev/icons?i=tailwind" width="45" />
       <img src="https://skillicons.dev/icons?i=flutter" width="45" />
@@ -69,13 +65,11 @@
     <td>
       <img src="https://skillicons.dev/icons?i=git" width="45" />
       <img src="https://skillicons.dev/icons?i=vscode" width="45" />
-      <img src="https://skillicons.dev/icons?i=idea" width="45" />
       <img src="https://skillicons.dev/icons?i=androidstudio" width="45" />
       <img src="https://skillicons.dev/icons?i=eclipse" width="45" />
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=windows" width="45" />
-      <img src="https://skillicons.dev/icons?i=linux" width="45" />
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" />
