@@ -2,15 +2,13 @@
 <h1 align="center" style="color: #6a0dad;">Hey, I'm Rania Jrad 👋</h1>
 
 <p align="center">
-    <em>Junior Full Stack Developer | Flutter | Java | Laravel</em>
+    <em>Software Engineering Student | Junior Full Stack Developer | Flutter • Laravel • Java | </em>
 </p>
 
-<!-- Badge de vues -->
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=raniajrad&color=8a2be2" alt="Profile views" />
 </p>
 
-<!-- Cercle "Open my profile" (image stylisée) -->
 <p align="center">
     <a href="https://github.com/raniajrad">
         <img src="https://img.shields.io/badge/Open%20my%20profile-8a2be2?style=for-the-badge&logo=github&logoColor=white" alt="Open my profile" width="250" />
@@ -21,8 +19,19 @@
 
 ## 🏆 GitHub Trophies
 
+<!-- Avec thème explicite pour éviter les erreurs -->
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=raniajrad" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=raniajrad&theme=onedark" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 GitHub Stats (plus stables)
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=raniajrad&show_icons=true&theme=dark" alt="GitHub Stats" />
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=raniajrad&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
@@ -95,16 +104,6 @@
 <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/">
   <img src="https://img.shields.io/badge/Microsoft_Learn-2F2F2F?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn" />
 </a>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=raniajrad&show_icons=true&theme=dark" alt="GitHub Stats" />
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=raniajrad&theme=dark" alt="GitHub Streak" />
-</p>
 
 ---
 
