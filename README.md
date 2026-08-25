@@ -52,35 +52,65 @@ Passionnée par le génie logiciel, je m'investis dans la conception et le déve
 
 ---
 
-## 🚀 Projets Principaux
+## 🚀 Mes Projets
 
-### 👗 Clothing Store — Application E-commerce
-<a href="https://github.com/raniajrad/vente-photo">
+### 🩺 HealWise (Espace Médecin)
+<a href="https://github.com/raniajrad/healwise">
   <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 
-Application e-commerce complète dédiée à la **vente de vêtements**, développée dans le cadre d'un projet web.
-* **Stack :** `Laravel` `PHP` `MySQL` `JavaScript` `Tailwind CSS`
+Plateforme PHP permettant aux médecins de consulter les dossiers patients, suivre les constantes vitales en temps réel et recevoir des alertes de risque.
+* **Stack :** `PHP` `MySQL`
 
 ---
 
-### 🏡 Local Platform — Plateforme de Services
-<a href="https://github.com/raniajrad/platforme-locale">
+### 📱 HealWise Mobile
+<a href="https://github.com/raniajrad/healwise_mobile">
   <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 
-Plateforme digitale interactive permettant de mettre en relation des **clients, prestataires de services et administrateurs**.
-* **Stack :** `Laravel` `PHP` `MySQL` `JavaScript`
+Application mobile Flutter pour HealWise — suivi des constantes vitales en temps réel, notifications et génération de rapports PDF.
+* **Stack :** `Flutter` `Dart`
 
 ---
 
-### 🌐 JS2024 — Projet Front-End
-<a href="https://github.com/raniajrad/js2024">
+### 🏡 Mon Plateforme Locale
+<a href="https://github.com/raniajrad/mon-Platforme-locale">
   <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 
-Projet de formation orienté **développement Front-End**, axé sur la création d'interfaces web dynamiques et interactives.
-* **Stack :** `HTML5` `CSS3` `JavaScript`
+Application web (Plateforme micro-services locales) de mise en relation entre clients, prestataires et administrateur avec Laravel.
+* **Stack :** `Laravel` `PHP` `MySQL`
+
+---
+
+### 👗 Vente Vêtements (E-commerce)
+<a href="https://github.com/raniajrad/vente-vetements">
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+
+Site e-commerce de vente de vêtements permettant de gérer des produits, d'afficher une page d'accueil et d'effectuer des opérations basiques côté client et administration.
+* **Stack :** `PHP` `MySQL` `HTML` `CSS` `JavaScript`
+
+---
+
+### 📋 To-Do-List (Gestionnaire de Tâches)
+<a href="https://github.com/raniajrad/-To-Do-List">
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+
+Application Flutter développée en Dart : "Gestionnaire de Tâches Avancé".
+* **Stack :** `Flutter` `Dart`
+
+---
+
+### 🛒 E-SHOP (Application Android)
+<a href="https://github.com/raniajrad/E-SHOP">
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+
+Application Android complète de gestion de produits et de commandes, développée en Java avec une base de données locale SQLite.
+* **Stack :** `Java` `Android` `SQLite`
 
 ---
 
@@ -122,5 +152,3 @@ Projet de formation orienté **développement Front-End**, axé sur la création
 </p>
 
 ```
-
-Avec cette version, votre profil va droit au but, met parfaitement en valeur vos compétences et vos projets, et n'aura plus aucun bug d'affichage visuel !
