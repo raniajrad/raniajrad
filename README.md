@@ -6,82 +6,39 @@
     <title>Rania Jrad - Profile</title>
     <style>
         /* ====== ANIMATIONS ====== */
-        @keyframes spin {
-            from {
-                transform: rotate(0deg);
-            }
-            to {
-                transform: rotate(360deg);
-            }
+        @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+        @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
+        @keyframes pulse { 0%,100% { transform: scale(1); } 50% { transform: scale(1.06); } }
+        @keyframes gradientShift { 0% { background-position: 0% 50%; } 50% { background-position: 100% 50%; } 100% { background-position: 0% 50%; } }
+        @keyframes glow { 0%,100% { box-shadow: 0 0 10px rgba(168,85,247,.3); } 50% { box-shadow: 0 0 30px rgba(168,85,247,.7), 0 0 60px rgba(124,58,237,.3); } }
+        @keyframes textPulse { 0%,100% { opacity: 1; transform: scale(1); } 50% { opacity: .75; transform: scale(.98); } }
+        @keyframes colorShift { 0% { color: #6a0dad; } 50% { color: #a855f7; } 100% { color: #6a0dad; } }
+        @keyframes borderGlow { 0%,100% { border-color: rgba(138,43,226,.3); } 50% { border-color: rgba(138,43,226,.8); } }
+        @keyframes shimmer {
+            0% { background-position: -500px 0; }
+            100% { background-position: 500px 0; }
         }
-        @keyframes float {
-            0%,
-            100% {
-                transform: translateY(0px);
-            }
-            50% {
-                transform: translateY(-12px);
-            }
+        @keyframes tilt {
+            0%,100% { transform: rotate(0deg); }
+            50% { transform: rotate(1deg); }
         }
-        @keyframes pulse {
-            0%,
-            100% {
-                transform: scale(1);
-            }
-            50% {
-                transform: scale(1.06);
-            }
+        @keyframes wave {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(-100%); }
         }
-        @keyframes gradientShift {
-            0% {
-                background-position: 0% 50%;
-            }
-            50% {
-                background-position: 100% 50%;
-            }
-            100% {
-                background-position: 0% 50%;
-            }
+        @keyframes bgMove {
+            0% { background-position: 0% 50%; }
+            100% { background-position: 200% 50%; }
         }
-        @keyframes glow {
-            0%,
-            100% {
-                box-shadow: 0 0 10px rgba(168, 85, 247, .3);
-            }
-            50% {
-                box-shadow: 0 0 30px rgba(168, 85, 247, .7), 0 0 60px rgba(124, 58, 237, .3);
-            }
-        }
-        @keyframes textPulse {
-            0%,
-            100% {
-                opacity: 1;
-                transform: scale(1);
-            }
-            50% {
-                opacity: .75;
-                transform: scale(.98);
-            }
-        }
-        @keyframes colorShift {
-            0% {
-                color: #6a0dad;
-            }
-            50% {
-                color: #a855f7;
-            }
-            100% {
-                color: #6a0dad;
-            }
-        }
-        @keyframes borderGlow {
-            0%,
-            100% {
-                border-color: rgba(138, 43, 226, .3);
-            }
-            50% {
-                border-color: rgba(138, 43, 226, .8);
-            }
+
+        /* ====== PAGE BACKGROUND ====== */
+        body {
+            background: linear-gradient(135deg, #f0e6ff, #e0d0ff, #f5f0ff, #e8ddff);
+            background-size: 300% 300%;
+            animation: bgMove 10s ease infinite;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', sans-serif;
         }
 
         /* ====== PROFILE CIRCLE ====== */
@@ -93,19 +50,17 @@
             animation: float 4s ease-in-out infinite;
             cursor: pointer;
         }
-
         .rotating-border {
             position: absolute;
             top: -15px;
             left: -15px;
             width: 370px;
             height: 370px;
-            border: 3px dashed rgba(138, 43, 226, .35);
+            border: 3px dashed rgba(138,43,226,.35);
             border-radius: 50%;
             animation: spin 14s linear infinite;
             z-index: 0;
         }
-
         .top-semi {
             position: absolute;
             top: 0;
@@ -118,10 +73,9 @@
             background: linear-gradient(135deg, #a855f7, #7c3aed, #6b21a8, #a855f7);
             background-size: 300% 300%;
             animation: gradientShift 5s ease infinite;
-            box-shadow: 0 -10px 30px rgba(168, 85, 247, .4);
+            box-shadow: 0 -10px 30px rgba(168,85,247,.4);
             z-index: 1;
         }
-
         .bottom-semi {
             position: absolute;
             bottom: 0;
@@ -134,30 +88,28 @@
             background: linear-gradient(135deg, #6b21a8, #4c1d95, #3b0764, #6b21a8);
             background-size: 300% 300%;
             animation: gradientShift 5s ease infinite .5s;
-            box-shadow: 0 10px 30px rgba(107, 33, 168, .4);
+            box-shadow: 0 10px 30px rgba(107,33,168,.4);
             z-index: 1;
         }
-
         .center-ring {
             position: absolute;
             top: 50%;
             left: 50%;
-            transform: translate(-50%, -50%);
+            transform: translate(-50%,-50%);
             width: 110px;
             height: 110px;
             border-radius: 50%;
             border: 8px solid #fff;
-            background: rgba(255, 255, 255, .85);
-            box-shadow: 0 0 20px rgba(0, 0, 0, .1), 0 0 40px rgba(168, 85, 247, .15);
+            background: rgba(255,255,255,.85);
+            box-shadow: 0 0 20px rgba(0,0,0,.1), 0 0 40px rgba(168,85,247,.15);
             z-index: 5;
             animation: pulse 2s ease-in-out infinite;
         }
-
         .center-inner {
             position: absolute;
             top: 50%;
             left: 50%;
-            transform: translate(-50%, -50%);
+            transform: translate(-50%,-50%);
             width: 62px;
             height: 62px;
             border-radius: 50%;
@@ -165,14 +117,13 @@
             animation: glow 2s ease-in-out infinite;
             z-index: 6;
         }
-
         .profile-text {
             position: absolute;
             top: 50%;
             left: 50%;
-            transform: translate(-50%, -50%);
+            transform: translate(-50%,-50%);
             z-index: 10;
-            background: rgba(255, 255, 255, .97);
+            background: rgba(255,255,255,.97);
             padding: 7px 18px;
             border-radius: 25px;
             font-family: 'Segoe UI', Tahoma, sans-serif;
@@ -180,14 +131,13 @@
             font-weight: 700;
             color: #2d2d2d;
             white-space: nowrap;
-            box-shadow: 0 4px 20px rgba(0, 0, 0, .12);
+            box-shadow: 0 4px 20px rgba(0,0,0,.12);
             display: flex;
             align-items: center;
             gap: 6px;
             animation: textPulse 2s ease-in-out infinite;
             border: 2px solid #f0e6ff;
         }
-
         .profile-text .arrow {
             color: #7c3aed;
             font-size: 12px;
@@ -196,6 +146,25 @@
             transform-origin: center;
         }
 
+        /* ====== TITLE SHIMMER ====== */
+        .shimmer-title {
+            background: linear-gradient(90deg, #6a0dad, #a855f7, #7c3aed, #6a0dad);
+            background-size: 200% auto;
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            animation: shimmer 3s linear infinite;
+        }
+
+        /* ====== TYPEWRITER ====== */
+        #typewriter {
+            display: inline-block;
+            border-right: 2px solid #6a0dad;
+            padding-right: 5px;
+            animation: blinkCaret .8s step-end infinite;
+        }
+        @keyframes blinkCaret { 50% { border-color: transparent; } }
+
         /* ====== TABLE HOVER ====== */
         .tech-table td {
             transition: all .3s ease;
@@ -203,12 +172,12 @@
             padding: 12px;
         }
         .tech-table td:hover {
-            background: rgba(138, 43, 226, .08);
+            background: rgba(138,43,226,.08);
             transform: scale(1.02);
-            box-shadow: 0 4px 15px rgba(138, 43, 226, .1);
+            box-shadow: 0 4px 15px rgba(138,43,226,.1);
         }
 
-        /* ====== BADGES FLOAT ====== */
+        /* ====== BADGES ====== */
         .badge-item {
             display: inline-block;
             transition: all .3s ease;
@@ -218,7 +187,7 @@
             transform: scale(1.1) rotate(3deg);
         }
 
-        /* ====== PROJECT CARDS ====== */
+        /* ====== PROJECT CARDS (3D TILT) ====== */
         .project-card {
             transition: all .3s ease;
             border-radius: 15px;
@@ -228,22 +197,46 @@
             background: linear-gradient(white, white) padding-box,
                 linear-gradient(135deg, #a855f7, #6b21a8) border-box;
             animation: borderGlow 3s ease-in-out infinite;
+            transform-style: preserve-3d;
         }
         .project-card:hover {
-            transform: translateY(-5px) scale(1.02);
-            box-shadow: 0 10px 30px rgba(138, 43, 226, .2);
+            transform: perspective(600px) rotateX(5deg) rotateY(-5deg) translateY(-6px);
+            box-shadow: 0 15px 40px rgba(138,43,226,.25);
+        }
+
+        /* ====== WAVE FOOTER (extra animation) ====== */
+        .wave-container {
+            position: relative;
+            height: 100px;
+            width: 100%;
+            overflow: hidden;
+            margin-top: 30px;
+        }
+        .wave {
+            position: absolute;
+            bottom: -20px;
+            left: 0;
+            width: 200%;
+            height: 100px;
+            background: url('data:image/svg+xml;utf8,<svg viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg"><path d="M0,60 C150,110 350,10 600,60 C850,110 1050,10 1200,60 L1200,120 L0,120 Z" fill="%23a855f7" opacity="0.3"/></svg>') repeat-x;
+            animation: wave 8s linear infinite;
+        }
+
+        /* ====== RESPONSIVE ====== */
+        @media(max-width: 700px) {
+            .profile-circle, .top-semi, .bottom-semi { transform: scale(0.8); }
         }
     </style>
 </head>
 <body>
 
     <!-- ====== TITLE ====== -->
-    <h1 align="center" style="color:#6a0dad; font-family:'Segoe UI',sans-serif; animation:colorShift 4s ease infinite;">
+    <h1 align="center" class="shimmer-title" style="font-family:'Segoe UI',sans-serif; font-size:40px; margin-top:20px;">
         Hey, I'm Rania Jrad 👋
     </h1>
 
-    <p align="center" style="font-family:'Segoe UI',sans-serif; font-size:16px; color:#555;">
-        <em>Junior Full Stack Developer | Flutter | Java | Laravel</em>
+    <p align="center" style="font-family:'Segoe UI',sans-serif; font-size:18px; color:#555;">
+        <em id="typewriter"></em>
     </p>
 
     <!-- ====== ANIMATED PROFILE CIRCLE ====== -->
@@ -390,10 +383,48 @@
         </div>
     </div>
 
+    <!-- ====== WAVE FOOTER ====== -->
+    <div class="wave-container">
+        <div class="wave"></div>
+    </div>
+
     <!-- ====== FOOTER ====== -->
-    <br><br>
-    <p align="center" style="font-family:'Segoe UI',sans-serif; color:#888; font-size:13px;">
+    <p align="center" style="font-family:'Segoe UI',sans-serif; color:#888; font-size:13px; margin-top:10px;">
         Made with ❤️ by Rania Jrad
     </p>
+
+    <!-- ====== TYPEWRITER JS ====== -->
+    <script>
+        const phrases = [
+            "Junior Full Stack Developer | Flutter | Java | Laravel",
+            "Passionate about crafting digital experiences",
+            "Open to new opportunities"
+        ];
+        let phraseIndex = 0, charIndex = 0, deleting = false;
+        const typewriter = document.getElementById("typewriter");
+
+        function type() {
+            const current = phrases[phraseIndex];
+            if (!deleting) {
+                typewriter.textContent = current.substring(0, charIndex+1);
+                charIndex++;
+                if (charIndex === current.length) {
+                    deleting = true;
+                    setTimeout(type, 2000);
+                    return;
+                }
+                setTimeout(type, 70);
+            } else {
+                typewriter.textContent = current.substring(0, charIndex-1);
+                charIndex--;
+                if (charIndex === 0) {
+                    deleting = false;
+                    phraseIndex = (phraseIndex + 1) % phrases.length;
+                }
+                setTimeout(type, 40);
+            }
+        }
+        type();
+    </script>
 </body>
 </html>
