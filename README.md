@@ -154,6 +154,4 @@ Application Android complète de gestion de produits et de commandes, développ�
   <em>Apprendre • Développer • Innover • Évoluer 🚀</em>
 </p>
 
-```
 
-Vous pouvez copier l'intégralité de ce code et le coller dans votre fichier `README.md`. Tout est prêt et bien configuré !
