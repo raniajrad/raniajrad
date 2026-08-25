@@ -1,13 +1,11 @@
 <h1 align="center">👋 Bonjour, je suis Rania Jrad</h1>
 
 <p align="center">
-  <strong>👩‍💻 Software Engineering Student | Junior Full Stack Developer | Flutter • Laravel • Java | 
-
-</strong>
+  <strong>👩‍💻 Élève Ingénieure en Informatique | Développeuse Full Stack Junior</strong>
 </p>
 
 <p align="center">
-  <em>Conception Logicielle • Développement Web & Mobile • Systèmes Intelligents</em>
+  <em>Développement Web • Développement Mobile • Génie Logiciel</em>
 </p>
 
 <p align="center">
@@ -58,7 +56,7 @@ Passionnée par le génie logiciel, je m'investis dans la conception et le déve
 
 ### 👗 Clothing Store — Application E-commerce
 <a href="https://github.com/raniajrad/vente-photo">
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 
 Application e-commerce complète dédiée à la **vente de vêtements**, développée dans le cadre d'un projet web.
@@ -68,7 +66,7 @@ Application e-commerce complète dédiée à la **vente de vêtements**, dévelo
 
 ### 🏡 Local Platform — Plateforme de Services
 <a href="https://github.com/raniajrad/platforme-locale">
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 
 Plateforme digitale interactive permettant de mettre en relation des **clients, prestataires de services et administrateurs**.
@@ -78,7 +76,7 @@ Plateforme digitale interactive permettant de mettre en relation des **clients, 
 
 ### 🌐 JS2024 — Projet Front-End
 <a href="https://github.com/raniajrad/js2024">
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 
 Projet de formation orienté **développement Front-End**, axé sur la création d'interfaces web dynamiques et interactives.
@@ -90,7 +88,7 @@ Projet de formation orienté **développement Front-End**, axé sur la création
 
 <p align="center">
   <a href="https://www.credly.com/badges/b9693b72-25a6-453e-894f-285eb2fb601c">
-    <img src="https://images.credly.com/size/340x340/images/1d37e2c9-e63d-4e64-b758-071509f9469d/image.png" width="120" alt="IBM Spectrum Storage for AI and Big Data Fundamentals"/>
+    <img src="https://images.credly.com/size/340x340/images/1d37e2c9-e63d-4e64-b758-071509f9469d/image.png" width="110" alt="IBM Spectrum Storage for AI and Big Data Fundamentals"/>
   </a>
 </p>
 <p align="center">
@@ -102,19 +100,15 @@ Projet de formation orienté **développement Front-End**, axé sur la création
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raniajrad&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raniajrad&show_icons=true&theme=dark&hide_border=true" alt="Statistiques GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=raniajrad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raniajrad&layout=compact&theme=dark&hide_border=true" alt="Langages les plus utilisés" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raniajrad&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Langages les plus utilisés" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raniajrad&theme=flat&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=raniajrad&theme=onedark&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -145,4 +139,4 @@ Projet de formation orienté **développement Front-End**, axé sur la création
 
 ```
 
-Qu'en pensez-vous ? Est-ce que ce compromis entre visuel et clarté vous convient mieux ?
+Copiez-collez ce code directement dans votre fichier `README.md` sur GitHub, les images de statistiques chargeront désormais correctement grâce aux thèmes simplifiés (`dark` / `onedark`).
