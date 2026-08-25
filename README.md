@@ -1,122 +1,171 @@
-<h1 align="center" style="color: #6a0dad;">Hey, I'm Rania Jrad 👋</h1>
+<h1 align="center">Hi 👋, I'm Rania Jrad</h1>
+
+<h3 align="center">
+  👩‍💻 Junior Full Stack Developer | 🎓 Computer Engineering Student
+</h3>
 
 <p align="center">
-    <em>Junior Full Stack Developer |  Flutter | Java | Laravel </em>
+  <strong>Laravel • Flutter • Java • PHP • SQL • Web & Mobile Development</strong>
 </p>
 
-<h2 align="center" style="color: #8a2be2;">Junior Full Stack Developer</h2>
-
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=raniajrad&color=8a2be2" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=raniajrad&label=Profile%20Views&color=8a2be2&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-<a name="profile-content"></a>
+## 👩‍💻 About Me
+
+I'm a **Junior Full Stack Developer** and a **Computer Engineering student**, graduated in Computer Science with a specialization in **Information Systems Development**.
+
+I enjoy building **web and mobile applications**, working with modern technologies, and continuously improving my software development skills.
+
+💻 **Backend:** Laravel, PHP, Java  
+📱 **Mobile:** Flutter, Android  
+🌐 **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS  
+🗄️ **Databases:** MySQL, MongoDB, Oracle  
+
+🎯 My goal is to **design elegant, efficient and scalable digital solutions** that make everyday life easier.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,php,js" />
+</p>
+
+### ⚙️ Backend & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,php" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+</p>
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle" />
+</p>
+
+### 🚀 DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode,eclipse" />
+</p>
+
+### 🎨 UI/UX
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=raniajrad)
-
-
----
-## 🛠️ Technologies & Tools
-
-<table align="center">
-  <tr>
-    <th>Programming Languages</th>
-    <th>Back-end</th>
-    <th>Front-end</th>
-    <th>Database</th>
-  </tr>
-  <tr align="center">
-    <td>
-      <img src="https://skillicons.dev/icons?i=java" width="45" />
-      <img src="https://skillicons.dev/icons?i=js" width="45" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=php" width="45" />
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html" width="45" />
-      <img src="https://skillicons.dev/icons?i=css" width="45" />
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" />
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" />
-      <img src="https://skillicons.dev/icons?i=flutter" width="45" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql" width="45" />
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" />
-    </td>
-  </tr>
-  <!-- Ligne 2 -->
-  <tr>
-    <th>Systems & Deployment</th>
-    <th>Tools</th>
-    <th>Operating Systems</th>
-    <th>UI/UX</th>
-  </tr>
-  <tr align="center">
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker" width="45" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git" width="45" />
-      <img src="https://skillicons.dev/icons?i=vscode" width="45" />
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" />
-      <img src="https://skillicons.dev/icons?i=eclipse" width="45" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=windows" width="45" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" />
-    </td>
-  </tr>
-</table>
-
-
-## 🎓Badges
-
-[![IBM Spectrum Storage for AI and Big Data Fundamentals](https://images.credly.com/size/340x340/images/1d37e2c9-e63d-4e64-b758-071509f9469d/image.png)](https://www.credly.com/badges/b9693b72-25a6-453e-894f-285eb2fb601c)
-
-[![Voir mes réalisations Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-2F2F2F?style=for-the-badge&logo=microsoft&logoColor=blue)](https://learn.microsoft.com/fr-fr/users/raniajrad-0198/)
-
-## 📈 GitHub Stats 📊
-
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=raniajrad&show_icons=true&theme=dark" alt="Rania's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=raniajrad&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=raniajrad&theme=flat&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-### 🧠 About Me  
-
-👩‍💻<strong>Junior Full Stack Developer diplômée en Technologie de l’Informatique, spécialité Développement des Systèmes d’Information.
-Passionnée par le développement web et mobile, avec des compétences en Flutter , Java et Laravel .
-À la recherche d’opportunités pour développer mes compétences et contribuer à des projets réels. </strong>
-
-🎯 My goal is to <strong>design elegant and efficient digital solutions</strong> that <strong>make everyday life easier</strong>.  
-
----
-
-## 🔗 Let's Work Together! 🤝
+## 📊 GitHub Statistics
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/votre-profil-linkedin/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:rania.jrad.07@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raniajrad&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=raniajrad&theme=tokyonight&hide_border=true" />
 </p>
 
-
-### 📂 My Projects  
-
-- 👗 <a href="https://github.com/raniajrad/vente-photo">Clothing Store</a> – An <strong>e-commerce application</strong> for clothing sales, developed with <strong>Laravel</strong>.  
-
-- 🏡 <a href="https://github.com/raniajrad/platforme-locale">Local Platform</a> – A <strong>local service platform</strong> connecting clients, providers, and admins for various digital services.  
-
-- 📱 <a href="https://github.com/raniajrad/js2024">JS2024</a> – A <strong>front-end training project</strong> built with <strong>HTML/CSS/JS</strong>.  
 ---
+
+## 🎓 Certifications & Badges
+
+### IBM Spectrum Storage for AI and Big Data Fundamentals
+
+<a href="https://www.credly.com/badges/b9693b72-25a6-453e-894f-285eb2fb601c">
+  <img src="https://images.credly.com/size/340x340/images/1d37e2c9-e63d-4e64-b758-071509f9469d/image.png" width="120" alt="IBM Spectrum Storage for AI and Big Data Fundamentals"/>
+</a>
+
+### Microsoft Learn
+
+<a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/">
+  <img src="https://img.shields.io/badge/Microsoft%20Learn-2F2F2F?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn"/>
+</a>
+
+---
+
+## 📂 Featured Projects
+
+### 👗 Clothing Store
+
+<a href="https://github.com/raniajrad/vente-photo">
+  <strong>Clothing Store</strong>
+</a>
+
+E-commerce application developed with **Laravel**, designed for clothing sales and online management.
+
+**Technologies:** Laravel • PHP • MySQL • HTML • CSS
+
+---
+
+### 🏡 Local Platform
+
+<a href="https://github.com/raniajrad/platforme-locale">
+  <strong>Local Platform</strong>
+</a>
+
+A digital platform connecting **clients, service providers and administrators** for local services.
+
+**Technologies:** Laravel • PHP • MySQL • JavaScript
+
+---
+
+### 📱 JS2024
+
+<a href="https://github.com/raniajrad/js2024">
+  <strong>JS2024</strong>
+</a>
+
+Frontend training project focused on building interactive web interfaces.
+
+**Technologies:** HTML • CSS • JavaScript
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rania-jrad/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:rania.jrad.07@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  ⭐ <strong>Thanks for visiting my profile!</strong> ⭐
+</p>
+
+<p align="center">
+  <i>Always learning • Always building • Always improving 🚀</i>
+</p>
