@@ -97,22 +97,6 @@ Projet de formation orienté **développement Front-End**, axé sur la création
 
 ---
 
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raniajrad&show_icons=true&theme=dark&hide_border=true" alt="Statistiques GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raniajrad&layout=compact&theme=dark&hide_border=true" alt="Langages les plus utilisés" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raniajrad&theme=onedark&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 🤝 Me contacter
 
 <p align="center">
@@ -139,4 +123,4 @@ Projet de formation orienté **développement Front-End**, axé sur la création
 
 ```
 
-Copiez-collez ce code directement dans votre fichier `README.md` sur GitHub, les images de statistiques chargeront désormais correctement grâce aux thèmes simplifiés (`dark` / `onedark`).
+Avec cette version, votre profil va droit au but, met parfaitement en valeur vos compétences et vos projets, et n'aura plus aucun bug d'affichage visuel !
