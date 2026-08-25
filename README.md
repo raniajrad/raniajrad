@@ -78,6 +78,12 @@
   </tr>
 </table>
 
+
+## 🎓 Certifications & Badges
+
+[![IBM Spectrum Storage for AI and Big Data Fundamentals](https://images.credly.com/size/340x340/images/1d37e2c9-e63d-4e64-b758-071509f9469d/image.png)](https://www.credly.com/badges/b9693b72-25a6-453e-894f-285eb2fb601c)
+
+
 ## 📈 GitHub Stats 📊
 
 <p align="center">
