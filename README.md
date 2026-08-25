@@ -125,6 +125,13 @@ Application Android complète de gestion de produits et de commandes, développ�
   <strong>IBM Spectrum Storage for AI and Big Data Fundamentals</strong>
 </p>
 
+### 📖 Microsoft Learn Achievements
+<p align="center">
+  <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/">
+    <img src="https://img.shields.io/badge/Microsoft_Learn-2F2F2F?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn"/>
+  </a>
+</p>
+
 ---
 
 ## 🤝 Me contacter
@@ -152,3 +159,5 @@ Application Android complète de gestion de produits et de commandes, développ�
 </p>
 
 ```
+
+Vous pouvez copier l'intégralité de ce code et le coller dans votre fichier `README.md`. Tout est prêt et bien configuré !
