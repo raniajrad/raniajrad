@@ -157,9 +157,11 @@ Passionnée par le génie logiciel, je m'investis dans la conception et le déve
 </a>
 
 Plateforme PHP permettant aux médecins de consulter les dossiers patients, suivre les constantes vitales en temps réel et recevoir des alertes de risque.
-* **Stack :** `PHP`  `Laravel` `MySQL` 
 
----
+* **Stack :** 
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 ### 📱 HealWise Mobile
 <a href="https://github.com/raniajrad/healwise_mobile">
