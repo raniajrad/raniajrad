@@ -52,17 +52,17 @@ Passionnée par le génie logiciel, je m'investis dans la conception et le déve
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="45%" src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
-  <img width="45%" src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per Language" />
+  <img src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
 </p>
 
 <p align="center">
+  <img width="45%" src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per Language" />
   <img width="45%" src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Language" />
 </p>
+---
 
 ## 🚀 Mes Projets
 
