@@ -1,26 +1,24 @@
-<h1 align="center">👋 Bonjour, je suis Rania Jrad</h1>
+<h1 align="center">👋 Hello, I'm Rania Jrad</h1>
 
 <p align="center">
-  <strong>👩‍💻 Élève Ingénieure en Informatique | Développeuse Full Stack Junior</strong>
+  <strong>👩‍💻 Software Engineering Student | Junior Full Stack Developer</strong>
 </p>
 
 <p align="center">
-  <em>Développement Web • Développement Mobile • Génie Logiciel</em>
+  <em>Web Development • Mobile Development • Software Engineering</em>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raniajrad&label=Visiteurs%20du%20profil&color=8A2BE2&style=for-the-badge" alt="Visiteurs du profil" />
+  <img src="https://komarev.com/ghpvc/?username=raniajrad&label=Profile%20Visitors&color=8A2BE2&style=for-the-badge" alt="Profile Visitors" />
 </p>
 
+## 👩‍💻 About Me
 
+I am **Rania Jrad**, a computer engineering student and **Junior Full Stack Developer**, holding a degree in **Information Technology (specializing in Information Systems Development)**.
 
-## 👩‍💻 À propos de moi
+Passionate about software engineering, I am dedicated to designing and developing **modern, high-performance, and scalable web and mobile applications**. I enjoy tackling technical challenges, exploring new technologies, and turning ideas into tangible digital solutions.
 
-Je suis **Rania Jrad**, élève ingénieure en informatique et développeuse **Full Stack Junior**, diplômée en **Technologie de l'Informatique (spécialité Développement des Systèmes d'Information)**.
-
-Passionnée par le génie logiciel, je m'investis dans la conception et le développement d'applications **web et mobiles modernes, performantes et évolutives**. J'aime relever des défis techniques, explorer de nouvelles technologies et transformer des idées en solutions digitales concrètes.
-
-🎯 **Mon objectif :** Contribuer à des projets innovants à forte valeur ajoutée et évoluer au sein d'une équipe technique passionnée.
+🎯 **My goal:** To contribute to innovative, high-value-added projects and grow within a passionate technical team.
 
 ---
 ## 🛠️ Technologies & Tools
