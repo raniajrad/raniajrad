@@ -22,4 +22,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          THEME: radical  # <--- AJOUTEZ CETTE LIGNE
+          THEME: radical
+          TIMEZONE: Africa/Tunis  # <--- LA LIGNE MAGIQUE POUR LE FUSEAU +1.00
