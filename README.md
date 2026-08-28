@@ -94,7 +94,17 @@ Passionnée par le génie logiciel, je m'investis dans la conception et le déve
   <img width="43%" src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Language" />
 </p>
 
+---
 
+## 🏆 Badges
+<p
+  align="center">  <a href="https://www.credly.com/badges/b9693b72-25a6-453e-894f-285eb2fb601c"> 
+    <img src="https://images.credly.com/size/340x340/images/1d37e2c9-e63d-4e64-b758-071509f9469d/image.png" width="110" alt="IBM Spectrum Storage for AI and Big Data Fundamentals"/>  </a></p>
+    
+  <p align="center">  <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/">
+    <img src="https://img.shields.io/badge/Microsoft_Learn-2F2F2F?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn"/>  </a></p>
+
+---
 
 ## 🚀 Mes Projets
 
@@ -158,15 +168,7 @@ Application Android complète de gestion de produits et de commandes, développ�
 
 ---
 
-## 🏆 Badges
-<p
-  align="center">  <a href="https://www.credly.com/badges/b9693b72-25a6-453e-894f-285eb2fb601c"> 
-    <img src="https://images.credly.com/size/340x340/images/1d37e2c9-e63d-4e64-b758-071509f9469d/image.png" width="110" alt="IBM Spectrum Storage for AI and Big Data Fundamentals"/>  </a></p>
-    
-  <p align="center">  <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/">
-    <img src="https://img.shields.io/badge/Microsoft_Learn-2F2F2F?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn"/>  </a></p>
 
----
 
 ## 🤝 Me contacter
 
