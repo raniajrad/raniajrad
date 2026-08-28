@@ -67,8 +67,6 @@ Passionnée par le génie logiciel, je m'investis dans la conception et le déve
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raniajrad&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
----
-
 ## 📈 Cartes avancées (Générées par l'Action GitHub)
 
 <!-- ⚠️ NE PAS OUBLIER : Lancez le workflow dans l'onglet "Actions" avant de sauvegarder, sinon les images seront cassées. -->
