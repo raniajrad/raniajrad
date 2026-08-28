@@ -101,47 +101,39 @@ Passionnée par le génie logiciel, je m'investis dans la conception et le déve
   align="center">  <a href="https://www.credly.com/badges/b9693b72-25a6-453e-894f-285eb2fb601c"> 
     <img src="https://images.credly.com/size/340x340/images/1d37e2c9-e63d-4e64-b758-071509f9469d/image.png" width="110" alt="IBM Spectrum Storage for AI and Big Data Fundamentals"/>  </a></p>
     
-<!-- Badge 1 - Noir -->
+<p align="center">
   <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/achievements">
     <img src="https://img.shields.io/badge/Choisir_un_framework_de_modèle_Power_BI-000000?style=for-the-badge&logo=microsoft&logoColor=white" alt="Badge 1"/>
   </a>
-
-<!-- Badge 2 - Noir -->
+  &nbsp;&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/achievements">
     <img src="https://img.shields.io/badge/Nettoyer_transformer_et_charger_des_données_Power_BI-000000?style=for-the-badge&logo=microsoft&logoColor=white" alt="Badge 2"/>
   </a>
-
-<!-- Badge 3 - Noir -->
+  &nbsp;&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/achievements">
     <img src="https://img.shields.io/badge/Obtenir_des_données_dans_Power_BI-000000?style=for-the-badge&logo=microsoft&logoColor=white" alt="Badge 3"/>
   </a>
-
-<!-- Badge 4 - Noir -->
+  &nbsp;&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/achievements">
     <img src="https://img.shields.io/badge/Créer_des_états_interactifs_avec_Copilot_Power_BI-000000?style=for-the-badge&logo=microsoft&logoColor=white" alt="Badge 4"/>
   </a>
-
-<!-- Badge 5 - Noir -->
+  &nbsp;&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/achievements">
     <img src="https://img.shields.io/badge/Présentation_analytique_Microsoft_Fabric-000000?style=for-the-badge&logo=microsoft&logoColor=white" alt="Badge 5"/>
   </a>
-
-<!-- Badge 6 - Noir -->
+  &nbsp;&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/achievements">
     <img src="https://img.shields.io/badge/Commencer_à_créer_avec_Power_BI-000000?style=for-the-badge&logo=microsoft&logoColor=white" alt="Badge 6"/>
   </a>
-
-<!-- Badge 7 - Noir -->
+  &nbsp;&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/achievements">
     <img src="https://img.shields.io/badge/Explorer_le_processus_d_analyse_Power_BI-000000?style=for-the-badge&logo=microsoft&logoColor=white" alt="Badge 7"/>
   </a>
-
-<!-- Badge 8 - Noir -->
+  &nbsp;&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/achievements">
     <img src="https://img.shields.io/badge/Présentation_de_l_IA_et_des_agents_génératifs-000000?style=for-the-badge&logo=microsoft&logoColor=white" alt="Badge 8"/>
   </a>
- 
-
+</p>
 ## 🚀 Mes Projets
 
 ### 🩺 HealWise (Espace Médecin)
