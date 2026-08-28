@@ -52,7 +52,8 @@ Passionnée par le génie logiciel, je m'investis dans la conception et le déve
 
 ---
 
-## 📊 GitHub Stats (Générées par mon Action)
+
+## 📊 GitHub Stats 
 
 <p align="center">
   <img width="45%" src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
@@ -61,10 +62,7 @@ Passionnée par le génie logiciel, je m'investis dans la conception et le déve
 
 <p align="center">
   <img width="45%" src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Most Commit Language" />
-  <img width="45%" src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/default/3-productive-time.svg" alt="Productive Time" />
 </p>
-
----
 
 ## 🚀 Mes Projets
 
