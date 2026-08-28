@@ -52,6 +52,35 @@ Passionnée par le génie logiciel, je m'investis dans la conception et le déve
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=raniajrad&show_icons=true&theme=radical&hide_border=true" alt="Stats GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raniajrad&layout=compact&theme=radical&hide_border=true" alt="Top Langages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raniajrad&theme=radical&hide_border=true" alt="Streak GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raniajrad&theme=react-dark&hide_border=true" alt="Graphique d'activité" />
+</p>
+
+<!--
+  Cartes avancées (contributions annuelles, top langages par repo/commit,
+  heures de commit) : voir le dossier profile-summary-card-output
+  généré par la GitHub Action vn7n24fzkq/github-profile-summary-cards.
+  Décommente et adapte les lignes ci-dessous une fois l'Action exécutée.
+
+  <img src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/default/profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/default/repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/default/most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/default/productive-time.svg" />
+-->
+
+---
+
 ## 🚀 Mes Projets
 
 ### 🩺 HealWise (Espace Médecin)
@@ -153,5 +182,3 @@ Application Android complète de gestion de produits et de commandes, développ�
   <br>
   <em>Apprendre • Développer • Innover • Évoluer 🚀</em>
 </p>
-
-
