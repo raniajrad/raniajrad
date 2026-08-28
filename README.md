@@ -73,7 +73,7 @@ Passionnée par le génie logiciel, je m'investis dans la conception et le déve
 </a>
 
 Plateforme PHP permettant aux médecins de consulter les dossiers patients, suivre les constantes vitales en temps réel et recevoir des alertes de risque.
-* **Stack :** `PHP` `MySQL`
+* **Stack :** `PHP`  `Laravel` `MySQL` 
 
 ---
 
@@ -83,7 +83,7 @@ Plateforme PHP permettant aux médecins de consulter les dossiers patients, suiv
 </a>
 
 Application mobile Flutter pour HealWise — suivi des constantes vitales en temps réel, notifications et génération de rapports PDF.
-* **Stack :** `Flutter` `Dart`
+* **Stack :** `Flutter` `Dart` `Flask python` `Fastapi`
 
 ---
 
@@ -103,7 +103,7 @@ Application web (Plateforme micro-services locales) de mise en relation entre cl
 </a>
 
 Site e-commerce de vente de vêtements permettant de gérer des produits, d'afficher une page d'accueil et d'effectuer des opérations basiques côté client et administration.
-* **Stack :** `PHP` `MySQL` `HTML` `CSS` `JavaScript`
+* **Stack :** `PHP` `MySQL` `HTML` `CSS` `JavaScript` `Laravel`
 
 ---
 
@@ -113,7 +113,7 @@ Site e-commerce de vente de vêtements permettant de gérer des produits, d'affi
 </a>
 
 Application Flutter développée en Dart : "Gestionnaire de Tâches Avancé".
-* **Stack :** `Flutter` `Dart`
+* **Stack :** `Flutter` `Dart`  `MySQL`
 
 ---
 
