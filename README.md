@@ -140,7 +140,7 @@ Passionnée par le génie logiciel, je m'investis dans la conception et le déve
   <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/achievements">
     <img src="https://img.shields.io/badge/Présentation_de_l_IA_et_des_agents_génératifs-000000?style=for-the-badge&logo=microsoft&logoColor=white" alt="Badge 8"/>
   </a>
-  ---
+ 
 
 ## 🚀 Mes Projets
 
