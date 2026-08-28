@@ -52,20 +52,38 @@ Passionnée par le génie logiciel, je m'investis dans la conception et le déve
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=raniajrad&show_icons=true&theme=radical&hide_border=true" alt="Stats GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raniajrad&layout=compact&theme=radical&hide_border=true" alt="Top Langages" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=raniajrad&show_icons=true&theme=radical&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=raniajrad&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raniajrad&theme=radical&hide_border=true" alt="Streak GitHub" />
+  <img
+    src="https://streak-stats.demolab.com/?user=raniajrad&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raniajrad&theme=react-dark&hide_border=true" alt="Graphique d'activité" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=raniajrad&theme=react-dark&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
+
+---
 
 <!--
   Cartes avancées (contributions annuelles, top langages par repo/commit,
