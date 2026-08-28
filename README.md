@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=raniajrad&label=Visiteurs%20du%20profil&color=8A2BE2&style=for-the-badge" alt="Visiteurs du profil" />
 </p>
 
----
+
 
 ## 👩‍💻 À propos de moi
 
@@ -59,8 +59,8 @@ Passionnée par le génie logiciel, je m'investis dans la conception et le déve
 </p>
 
 <p align="center">
-  <img width="45%" src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per Language" />
-  <img width="45%" src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img width="43%" src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per Language" />
+  <img width="43%" src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Language" />
 </p>
 ---
 
