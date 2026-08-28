@@ -62,7 +62,7 @@ Passionnée par le génie logiciel, je m'investis dans la conception et le déve
   <img width="43%" src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per Language" />
   <img width="43%" src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Language" />
 </p>
----
+
 
 ## 🚀 Mes Projets
 
