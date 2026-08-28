@@ -101,15 +101,60 @@ Passionnée par le génie logiciel, je m'investis dans la conception et le déve
   align="center">  <a href="https://www.credly.com/badges/b9693b72-25a6-453e-894f-285eb2fb601c"> 
     <img src="https://images.credly.com/size/340x340/images/1d37e2c9-e63d-4e64-b758-071509f9469d/image.png" width="110" alt="IBM Spectrum Storage for AI and Big Data Fundamentals"/>  </a></p>
     
+<!-- Badge 1 -->
 <p align="center">
-  <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/"><img src="https://img.shields.io/badge/Badge_1-2F2F2F?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
-  <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/"><img src="https://img.shields.io/badge/Badge_2-2F2F2F?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
-  <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/"><img src="https://img.shields.io/badge/Badge_3-2F2F2F?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
-  <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/"><img src="https://img.shields.io/badge/Badge_4-2F2F2F?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
-  <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/"><img src="https://img.shields.io/badge/Badge_5-2F2F2F?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
-  <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/"><img src="https://img.shields.io/badge/Badge_6-2F2F2F?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
-  <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/"><img src="https://img.shields.io/badge/Badge_7-2F2F2F?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
-  <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/"><img src="https://img.shields.io/badge/Badge_8-2F2F2F?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
+  <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/achievements">
+    <img src="https://img.shields.io/badge/Choisir_un_framework_de_modèle_Power_BI-8A2BE2?style=for-the-badge&logo=microsoft&logoColor=white" alt="Choisir un framework de modèle Power BI"/>
+  </a>
+</p>
+
+<!-- Badge 2 -->
+<p align="center">
+  <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/achievements">
+    <img src="https://img.shields.io/badge/Nettoyer_transformer_et_charger_des_données_Power_BI-8A2BE2?style=for-the-badge&logo=microsoft&logoColor=white" alt="Nettoyer, transformer et charger des données dans Power BI"/>
+  </a>
+</p>
+
+<!-- Badge 3 -->
+<p align="center">
+  <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/achievements">
+    <img src="https://img.shields.io/badge/Obtenir_des_données_dans_Power_BI-8A2BE2?style=for-the-badge&logo=microsoft&logoColor=white" alt="Obtenir des données dans Power BI"/>
+  </a>
+</p>
+
+<!-- Badge 4 -->
+<p align="center">
+  <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/achievements">
+    <img src="https://img.shields.io/badge/Créer_des_états_interactifs_avec_Copilot_Power_BI-8A2BE2?style=for-the-badge&logo=microsoft&logoColor=white" alt="Créer des états interactifs à l'aide de Copilot pour Power BI"/>
+  </a>
+</p>
+
+<!-- Badge 5 -->
+<p align="center">
+  <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/achievements">
+    <img src="https://img.shields.io/badge/Présentation_analytique_Microsoft_Fabric-8A2BE2?style=for-the-badge&logo=microsoft&logoColor=white" alt="Présentation de l'analytique de bout en bout à l'aide de Microsoft Fabric"/>
+  </a>
+</p>
+
+<!-- Badge 6 -->
+<p align="center">
+  <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/achievements">
+    <img src="https://img.shields.io/badge/Commencer_à_créer_avec_Power_BI-8A2BE2?style=for-the-badge&logo=microsoft&logoColor=white" alt="Commencer à créer avec Power BI"/>
+  </a>
+</p>
+
+<!-- Badge 7 -->
+<p align="center">
+  <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/achievements">
+    <img src="https://img.shields.io/badge/Explorer_le_processus_d_analyse_Power_BI-8A2BE2?style=for-the-badge&logo=microsoft&logoColor=white" alt="Explorer le processus d'analyse qui transforme les données en insights"/>
+  </a>
+</p>
+
+<!-- Badge 8 -->
+<p align="center">
+  <a href="https://learn.microsoft.com/fr-fr/users/raniajrad-0198/achievements">
+    <img src="https://img.shields.io/badge/Présentation_de_l_IA_et_des_agents_génératifs-8A2BE2?style=for-the-badge&logo=microsoft&logoColor=white" alt="Présentation de l'IA et des agents génératifs"/>
+  </a>
 </p>
 
 ---
