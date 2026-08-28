@@ -52,29 +52,19 @@ Passionnée par le génie logiciel, je m'investis dans la conception et le déve
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=raniajrad&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raniajrad&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=raniajrad&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raniajrad&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-## 📈 Cartes avancées (Générées par l'Action GitHub)
-
-<!-- ⚠️ NE PAS OUBLIER : Lancez le workflow dans l'onglet "Actions" avant de sauvegarder, sinon les images seront cassées. -->
+## 📊 GitHub Stats (Générées par mon Action)
 
 <p align="center">
   <img width="45%" src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
   <img width="45%" src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per Language" />
 </p>
+
+<p align="center">
+  <img width="45%" src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img width="45%" src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/default/3-productive-time.svg" alt="Productive Time" />
+</p>
+
+---
 
 ## 🚀 Mes Projets
 
@@ -139,8 +129,6 @@ Application Android complète de gestion de produits et de commandes, développ�
 ---
 
 ## 🏆 Badges
-
-*(Le contenu dupliqué des cartes avancées a été retiré ici pour éviter les doublons, car il se trouve déjà juste au-dessus).*
 
 ---
 
