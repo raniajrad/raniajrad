@@ -57,48 +57,28 @@ Passionnée par le génie logiciel, je m'investis dans la conception et le déve
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=raniajrad&show_icons=true&theme=radical&hide_border=true"
-    alt="GitHub Stats"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=raniajrad&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages"
-  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ranirad&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranirad&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=raniajrad&theme=radical&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com/?user=ranirad&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=raniajrad&theme=react-dark&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranirad&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-<!--
-  Cartes avancées (contributions annuelles, top langages par repo/commit,
-  heures de commit) : voir le dossier profile-summary-card-output
-  généré par la GitHub Action vn7n24fzkq/github-profile-summary-cards.
-  Décommente et adapte les lignes ci-dessous une fois l'Action exécutée.
+## 📈 Cartes avancées (Générées par l'Action GitHub)
 
-  <img src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/default/profile-details.svg" />
-  <img src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/default/repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/default/most-commit-language.svg" />
-  <img src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/default/productive-time.svg" />
--->
+<!-- ⚠️ NE PAS OUBLIER : Lancez le workflow dans l'onglet "Actions" avant de sauvegarder, sinon les images seront cassées. -->
 
----
-
+<p align="center">
+  <img width="45%" src="https://raw.githubusercontent.com/ranirad/ranirad/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
+  <img width="45%" src="https://raw.githubusercontent.com/ranirad/ranirad/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per Language" />
+</p>
 ## 🚀 Mes Projets
 
 ### 🩺 HealWise (Espace Médecin)
