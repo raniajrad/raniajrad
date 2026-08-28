@@ -53,7 +53,7 @@ Passionnée par le génie logiciel, je m'investis dans la conception et le déve
 ---
 
 
-## 📊 GitHub Stats 
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="45%" src="https://raw.githubusercontent.com/raniajrad/raniajrad/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
