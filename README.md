@@ -28,25 +28,40 @@ Passionnée par le génie logiciel, je m'investis dans la conception et le déve
 
 <table align="center">
   <tr>
-    <th width="33%">💻 Langages & Backend</th>
-    <th width="33%">🎨 Frontend & Mobile</th>
-    <th width="33%">🗄️ Données & DevOps</th>
+    <th width="25%">💻 Langages</th>
+    <th width="25%">⚙️ Back-end</th>
+    <th width="25%">🎨 Front-end & Mobile</th>
+    <th width="25%">🗄️ Base de données</th>
   </tr>
   <tr align="center">
     <td>
-      <img src="https://skillicons.dev/icons?i=java,php,js,laravel" />
+      <img src="https://skillicons.dev/icons?i=java,php,js" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=laravel" />
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,flutter" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,git,docker,linux" />
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle" />
     </td>
   </tr>
+  <tr>
+    <th width="33%">🚀 Réseau & Déploiement</th>
+    <th width="33%">🛠️ Outils</th>
+    <th width="33%">🖥️ Systèmes d'exploitation</th>
+  </tr>
   <tr align="center">
-    <td><b>Java • PHP • JS • Laravel</b></td>
-    <td><b>HTML/CSS • Tailwind • Flutter</b></td>
-    <td><b>MySQL • MongoDB • Git • Docker • Lunix</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,git,linux" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,vscode,github" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linux,windows" />
+    </td>
   </tr>
 </table>
 
