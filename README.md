@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-I am **Rania Jrad**, a computer engineering student and **Junior Full Stack Developer**, holding a degree in **Information Technology (specializing in Information Systems Development)**.
+I am **Rania Jrad**, a Software engineering student and **Junior Full Stack Developer**, holding a degree in **Information Technology (specializing in Information Systems Development)**.
 
 Passionate about software engineering, I am dedicated to designing and developing **modern, high-performance, and scalable web and mobile applications**. I enjoy tackling technical challenges, exploring new technologies, and turning ideas into tangible digital solutions.
 
