@@ -23,44 +23,60 @@ Passionnée par le génie logiciel, je m'investis dans la conception et le déve
 🎯 **Mon objectif :** Contribuer à des projets innovants à forte valeur ajoutée et évoluer au sein d'une équipe technique passionnée.
 
 ---
-
-## 🛠️ Technologies & Compétences
+## 🛠️ Technologies & Tools
 
 <table align="center">
   <tr>
-    <th width="25%">💻 Langages</th>
-    <th width="25%">⚙️ Back-end</th>
-    <th width="25%">🎨 Front-end & Mobile</th>
-    <th width="25%">🗄️ Base de données</th>
+    <th>Programming Languages</th>
+    <th>Back-end</th>
+    <th>Front-end</th>
+    <th>Database</th>
   </tr>
   <tr align="center">
     <td>
-      <img src="https://skillicons.dev/icons?i=java,php,js" />
+      <img src="https://skillicons.dev/icons?i=java" width="45" />
+      <img src="https://skillicons.dev/icons?i=js" width="45" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=laravel" />
+      <img src="https://skillicons.dev/icons?i=php" width="45" />
+      <img src="https://skillicons.dev/icons?i=laravel" width="45" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,flutter" />
+      <img src="https://skillicons.dev/icons?i=html" width="45" />
+      <img src="https://skillicons.dev/icons?i=css" width="45" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" />
+      <img src="https://skillicons.dev/icons?i=flutter" width="45" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle" />
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" />
     </td>
   </tr>
+  <!-- Ligne 2 -->
   <tr>
-    <th width="33%">🚀 Réseau & Déploiement</th>
-    <th width="33%">🛠️ Outils</th>
-    <th width="33%">🖥️ Systèmes d'exploitation</th>
+    <th>Systems & Deployment</th>
+    <th>Tools</th>
+    <th>Operating Systems</th>
+    <th>UI/UX</th>
   </tr>
   <tr align="center">
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,git,linux" />
+      <img src="https://skillicons.dev/icons?i=docker" width="45" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,vscode,github" />
+      <img src="https://skillicons.dev/icons?i=git" width="45" />
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" />
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" />
+      <img src="https://skillicons.dev/icons?i=eclipse" width="45" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=linux,windows" />
+      <img src="https://skillicons.dev/icons?i=windows" width="45" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" />
     </td>
   </tr>
 </table>
