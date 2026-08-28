@@ -46,7 +46,7 @@ Passionnée par le génie logiciel, je m'investis dans la conception et le déve
   <tr align="center">
     <td><b>Java • PHP • JS • Laravel</b></td>
     <td><b>HTML/CSS • Tailwind • Flutter</b></td>
-    <td><b>MySQL • MongoDB • Git • Docker</b></td>
+    <td><b>MySQL • MongoDB • Git • Docker • Lunix</b></td>
   </tr>
 </table>
 
