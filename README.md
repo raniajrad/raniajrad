@@ -169,7 +169,11 @@ Plateforme PHP permettant aux médecins de consulter les dossiers patients, suiv
 </a>
 
 Application mobile Flutter pour HealWise — suivi des constantes vitales en temps réel, notifications et génération de rapports PDF.
-* **Stack :** `Flutter` `Dart` `Flask python` `Fastapi`
+* **Stack :** 
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 ---
 
@@ -179,7 +183,10 @@ Application mobile Flutter pour HealWise — suivi des constantes vitales en tem
 </a>
 
 Application web (Plateforme micro-services locales) de mise en relation entre clients, prestataires et administrateur avec Laravel.
-* **Stack :** `Laravel` `PHP` `MySQL`
+* **Stack :** 
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 ---
 
@@ -189,7 +196,13 @@ Application web (Plateforme micro-services locales) de mise en relation entre cl
 </a>
 
 Site e-commerce de vente de vêtements permettant de gérer des produits, d'afficher une page d'accueil et d'effectuer des opérations basiques côté client et administration.
-* **Stack :** `PHP` `MySQL` `HTML` `CSS` `JavaScript` `Laravel`
+* **Stack :** 
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
 ---
 
@@ -199,7 +212,10 @@ Site e-commerce de vente de vêtements permettant de gérer des produits, d'affi
 </a>
 
 Application Flutter développée en Dart : "Gestionnaire de Tâches Avancé".
-* **Stack :** `Flutter` `Dart`  `MySQL`
+* **Stack :** 
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 ---
 
@@ -209,10 +225,10 @@ Application Flutter développée en Dart : "Gestionnaire de Tâches Avancé".
 </a>
 
 Application Android complète de gestion de produits et de commandes, développée en Java avec une base de données locale SQLite.
-* **Stack :** `Java` `Android` `SQLite`
-
----
-
+* **Stack :** 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 
 ## 🤝 Me contacter
