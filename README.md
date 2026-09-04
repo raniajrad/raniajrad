@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Rania Jrad</h1>
 
 <p align="center">
-  <strong>👩‍💻 Software Engineering Student | Junior Full Stack Developer</strong>
+  <strong>👩‍💻 Software Engineering Student | Junior Full Stack Developer | Flutter • Laravel • Java | </strong>
 </p>
 
 <p align="center">
